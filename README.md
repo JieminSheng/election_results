@@ -14,7 +14,7 @@ The purpose of this analysis is to determine the relevant metrics of the electio
 
 ### Election Outcomes
 
-![Election_Results.png](resources/Election_Results.png)
+![Election_Results.png](Resources/Election_Results.png)
 
 The following bulleted list notes the pertinent election outcomes also visualized above in the terminal output from the code:
  
@@ -38,11 +38,11 @@ The following bulleted list notes the pertinent election outcomes also visualize
 
 ### Business Proposal for Script
 
-![Election_Script_1.png](resources/Election_Script_1.png)
-![Election_Script_2.png](resources/Election_Script_2.png)
-![Election_Script_3.png](resources/Election_Script_3.png)
-![Election_Script_4.png](resources/Election_Script_4.png)
-![Election_Script_5.png](resources/Election_Script_5.png)
+![Election_Script_1.png](Resources/Election_Script_1.png)
+![Election_Script_2.png](Resources/Election_Script_2.png)
+![Election_Script_3.png](Resources/Election_Script_3.png)
+![Election_Script_4.png](Resources/Election_Script_4.png)
+![Election_Script_5.png](Resources/Election_Script_5.png)
 
 Above is the script for compiling the election results.
 
